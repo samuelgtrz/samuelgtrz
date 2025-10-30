@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @samuelgtrz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning AI career
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 ¡Hola! Soy Samuel Gutiérrez
 
-<!---
-samuelgtrz/samuelgtrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudiante de **Inteligencia Artificial** en la **Universidad de Santiago de Compostela (USC)**.
+
+## 📫 Contacto
+📧 **samuelgutierrezcas@gmail.com**  
+💼 https://www.linkedin.com/in/samuelgutierrezcastañeda/
